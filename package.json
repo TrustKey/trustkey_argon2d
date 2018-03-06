@@ -1,0 +1,21 @@
+{
+  "name": "tk-promise",
+  "version": "0.0.1",
+  "main": "module.js",
+  "private": true,
+  "plugin": {
+    "provides": [
+      "trustkey_argon2d"
+    ],
+    "consumes": [
+      "core",
+      "promise",
+      "rng"
+    ]
+  },
+  "dependencies": {
+    "argon2": "^0.17.2",
+    "buffer-xor": "^2.0.2",
+    "jsonschema": "^1.2.2"
+  }
+}
