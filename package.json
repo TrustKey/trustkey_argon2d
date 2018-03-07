@@ -1,5 +1,5 @@
 {
-  "name": "tk-promise",
+  "name": "@trustkey/argon2d",
   "version": "0.0.1",
   "main": "module.js",
   "private": true,
