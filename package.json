@@ -5,7 +5,8 @@
   "private": true,
   "plugin": {
     "provides": [
-      "trustkey_argon2d"
+      "trustkey_argon2d",
+      "trustkey_argon2d_constructor"
     ],
     "consumes": [
       "core",
